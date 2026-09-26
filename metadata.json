@@ -1,0 +1,6 @@
+{
+  "name": "Jev Ultra Runtime",
+  "description": "High-performance, low-latency AI agent runtime with deep observability, streaming engine, execution graphs, and A/B benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
